@@ -1,0 +1,102 @@
+[
+    {
+        "snippet": "and if you compare two things, you'll learn that with an integer value of either 0 or 1 to mean for example if they are either the same or different", 
+        "videoIndex": 1, 
+        "startTime": 38.9375
+    }, 
+    {
+        "snippet": "And they're called 1 and 2.", 
+        "videoIndex": 1, 
+        "startTime": 61.8125
+    }, 
+    {
+        "snippet": "the first output stream identified by the number '1' is the regular output, standard output", 
+        "videoIndex": 1, 
+        "startTime": 85.5625
+    }, 
+    {
+        "snippet": "Now, rather than writing 1 and 2 over here, perhaps we should actually have some constants", 
+        "videoIndex": 1, 
+        "startTime": 195.90625
+    }, 
+    {
+        "snippet": "so we could say start define things to say have a constant here, I'll call it say \"STDOUT_FILENO 1\"", 
+        "videoIndex": 1, 
+        "startTime": 205.296875
+    }, 
+    {
+        "snippet": "so anytime you do hash define, you're talking to the preprocessor to say \"hey, in the future, parts of this file, if you come across this character sequence, then replace it (in this case) with either a 1 or a 2 depending on what it is\"", 
+        "videoIndex": 1, 
+        "startTime": 223.90625
+    }, 
+    {
+        "snippet": "just like we've seen so far with file number 1 and file number 2", 
+        "videoIndex": 2, 
+        "startTime": 64.5625
+    }, 
+    {
+        "snippet": "so I'll have a little count. I'll start from 1 this time.", 
+        "videoIndex": 7, 
+        "startTime": 141.515625
+    }, 
+    {
+        "snippet": "when we start, argc is just 1. we've got just the program", 
+        "videoIndex": 7, 
+        "startTime": 189.8125
+    }, 
+    {
+        "snippet": "and we find out that my little virtual machine thinks it's Jan 1 2014", 
+        "videoIndex": 12, 
+        "startTime": 226.453125
+    }, 
+    {
+        "snippet": "and if you compare two things, you'll learn that with an integer value of either 0 or 1 to mean for example if they are either the same or different", 
+        "videoIndex": 1, 
+        "startTime": 38.9375
+    }, 
+    {
+        "snippet": "so in this case we want to say create a brand new file and truncate it back to 0 if it doesn't exist", 
+        "videoIndex": 2, 
+        "startTime": 33.96875
+    }, 
+    {
+        "snippet": "h e l l o that's five, plus an extra byte for the 0 to say that's the end", 
+        "videoIndex": 6, 
+        "startTime": 52.03125
+    }, 
+    {
+        "snippet": "we could also run through the string to actually find the 0 byte ourselves", 
+        "videoIndex": 6, 
+        "startTime": 63.796875
+    }, 
+    {
+        "snippet": "and let's say \"while the pointer the value is not equal to 0\"", 
+        "videoIndex": 6, 
+        "startTime": 90.890625
+    }, 
+    {
+        "snippet": "which are not the 0 byte", 
+        "videoIndex": 6, 
+        "startTime": 120.0625
+    }, 
+    {
+        "snippet": "strlen() returned 0", 
+        "videoIndex": 6, 
+        "startTime": 254.0625
+    }, 
+    {
+        "snippet": "and process 682 has a fork return value of 0", 
+        "videoIndex": 19, 
+        "startTime": 139.375
+    }, 
+    {
+        "snippet": "so we will say look if the child id what i return from fork is actually greater than 0", 
+        "videoIndex": 19, 
+        "startTime": 176.171875
+    }, 
+    {
+        "snippet": "and for now the last argument i am just going to put as 0", 
+        "videoIndex": 19, 
+        "startTime": 260.125
+    }
+]
